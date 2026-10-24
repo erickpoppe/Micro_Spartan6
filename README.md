@@ -140,6 +140,6 @@ To simulate in ISim, temporarily tie `tick` to `'1'` so the CPU advances every c
 - There are no flags, conditional jumps, or I/O instructions yet.
 - The program is set by the RAM initializer in the VHDL. Changing it requires re-synthesizing.
 
-## License
+## Author
 
-Add a license of your choice (for example MIT) in a `LICENSE` file.
+MSc. Erick Poppe
